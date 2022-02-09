@@ -29,5 +29,6 @@ Here is a list of changes made to this app
 <li>Created home page
 <li>Created about page
 	* Heroku Production
+	*Created a scaffold magic shortcut
 	
 
