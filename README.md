@@ -23,4 +23,7 @@ Things you may want to cover:
 
 * ...
 
-This is a test to see if it works 
+Created blog app
+Created home page
+Created about page
+
