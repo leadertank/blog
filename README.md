@@ -23,7 +23,9 @@ Things you may want to cover:
 
 * ...
 
-Created blog app
-Created home page
-Created about page
+Here is a list of changes made to this app
+
+<li>Created blog app
+<li>Created home page
+<li>Created about page
 
